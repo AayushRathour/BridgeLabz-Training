@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FactorialUsingWhileLoop{
+public class Factorial{
 	public static void main(String[] args){
 		
 		// creating scanner object,  taking input and initializing variables
