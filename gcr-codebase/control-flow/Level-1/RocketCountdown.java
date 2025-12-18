@@ -8,13 +8,17 @@ public class RocketCountdown {
         System.out.println("Enter the Number");
         int number = sc.nextInt();
 
+		// inisialised ans varialble to store countdown
         int ans = number-1;   // fixed
-
+		
+		
+		// Started While Loop here
         while (ans > 0) {
             System.out.println(ans);
-            ans -= 1;       // fixed
+            ans -= 1;    
         }
-
+	
+		// Scanner Closed 
         sc.close();
     }
 }
