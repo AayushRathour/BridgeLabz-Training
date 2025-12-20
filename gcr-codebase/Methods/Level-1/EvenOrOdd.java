@@ -1,7 +1,8 @@
 import java.util.*;
 
 class EvenOrOdd{
-	public static int NumberCheck(int n){
+	// Created a Method and find result using Conditional Statement 
+	public static int numberCheck(int n){
 		if (n==0){
 			return 0;
 		}
@@ -10,13 +11,17 @@ class EvenOrOdd{
 		}
 		return -1;
 	}
+	
+	// Creating Scanner Object, taking input from user 
 	public static void main(String[] args ){
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Number : ");
 		int n = sc.nextInt();
 		
 		
-		int result = NumberCheck(n);
+		
+		// Calling the method and Returning the output 
+		int result = numberCheck(n);
 		System.out.println(result);
 		
 	}
