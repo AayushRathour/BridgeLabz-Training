@@ -1,8 +1,8 @@
-import java.util.Scanner;
+import java.util.*;
 
 class CheckAnagramOrNot{
-	// method to check anagram 
-    static boolean isAnagram(String str1, String str2) {
+	// created a method to check anagram 
+    public static boolean isAnagram(String str1, String str2) {
 		if(str1.length() != str2.length()) return false;
         int[] freq1 = new int[256];
 		int[] freq2 = new int[256];
@@ -18,7 +18,7 @@ class CheckAnagramOrNot{
     }
 
     public static void main(String[] args){
-		// creating scanner class object and taking input
+		// creating scanner class object and taking input from user 
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter strings : ");
         String str1 = sc.next();
