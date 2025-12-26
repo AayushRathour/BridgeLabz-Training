@@ -34,7 +34,7 @@ BridgeLabz-Training/
 - Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
+👉 [Day 2 – Basic Java Programs](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequiest)
 
 ---
 
@@ -71,7 +71,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 4 – Control Flow](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+👉 [Day 4 – Control Flow](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -109,7 +109,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 6 – Strings & Methods](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+👉 [Day 6 – Strings & Methods](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
 
 ---
 
@@ -126,4 +126,4 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 7 – Built-in Functions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 7 – Built-in Functions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra)
