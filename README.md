@@ -134,11 +134,11 @@ BridgeLabz-Training/
 **(Date: 24-Dec-2025)**
 
 - Practiced real world problems.
--Implemented programs such as: -
- -Coffee price calculator
- -Finding bmi and bmi category
--Improved understanding of Input handling and Real world problems
--Organized programs into proper folders.
--Committed and pushed all changes successfully.
+- Implemented programs such as: -
+ - Coffee price calculator
+ - Finding bmi and bmi category
+- Improved understanding of Input handling and Real world problems
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
 🔗 **Code Link:**
 👉 [Day 8 – Scenario based questions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/scenario-based)
