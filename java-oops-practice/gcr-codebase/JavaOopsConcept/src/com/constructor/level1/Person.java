@@ -17,7 +17,7 @@ public class Person {
     }
 
     public static void main(String[] args) {
-        Person p1 = new Person("Name1", 20);
+        Person p1 = new Person("Name111", 10);
         Person p2 = new Person(p1);
 
         System.out.println(p2.name);
