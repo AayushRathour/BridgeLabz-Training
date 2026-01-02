@@ -13,7 +13,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		List<Product> list = new ArrayList<>();
 		
-		list.add(new Clothing(0, "Shitr", 1000));
+		list.add(new Clothing(0, "Shirt", 1000));
 		list.add(new Groceries(1, "Oil", 1500));
 		list.add(new Electronics(2, "Fan", 2000));
 		

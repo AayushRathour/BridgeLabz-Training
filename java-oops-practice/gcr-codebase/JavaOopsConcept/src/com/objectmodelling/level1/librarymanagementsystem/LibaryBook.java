@@ -1,8 +1,8 @@
 package com.objectmodelling.level1.librarymanagementsystem;
 
 public class LibaryBook {
-	public LibaryBook(LibaryBook b1, LibaryBook b2) {
-	// TODO Auto-generated constructor stub
+	public LibaryBook(String string, String string2) {
+		// TODO Auto-generated constructor stub
 	}
 
 	public class LibaryBook{
