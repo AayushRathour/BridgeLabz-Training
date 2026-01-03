@@ -5,8 +5,8 @@ public class MainClass {
         Wallet w1 = new PersonalWallet(100);
         Wallet w2 = new BusinessWallet(200);
 
-        User u1 = new User(1, "Aman", w1);
-        User u2 = new User(2, "Tarun", w2);
+        User u1 = new User(1, "Aayush", w1);
+        User u2 = new User(2, "HArsh", w2);
 
         u1.displayUser();
         u2.displayUser();
@@ -17,7 +17,7 @@ public class MainClass {
         w1.transferTo(u2, 200);
         w2.transferTo(u1, 300);
 
-        System.out.println("Aman Balance : " + u1.getWallet().getBalance());
-        System.out.println("Tarun Balance : " + u2.getWallet().getBalance());
+        System.out.println("Aayush Balance : " + u1.getWallet().getBalance());
+        System.out.println("Harsh Balance : " + u2.getWallet().getBalance());
     }
 }
