@@ -106,8 +106,6 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 14 - Polymorphism, Encapsulation and Abstraction](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism).
-
 👉 [Scenario Based](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)
 
 ---
