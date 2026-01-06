@@ -169,3 +169,104 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 10 – Constructors](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/level1)
 
+
+### 🗓 Day 11 – Java Keywords & Problem Solving  
+**(Date: 29-Dec-2025)**
+
+- Practiced Java keywords:
+  - this
+  - static
+  - final
+- Solved real-world scenario-based problems.
+- Practiced LeetCode problems on arrays and searching.
+- Improved problem-solving skills using core Java concepts.
+
+🔗 **Code Link:**  
+👉 [Keywords](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/javakeywords)  
+👉 [Scenario Based](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/scenario-based)  
+👉 [LeetCode](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
+### 🗓 Day 12 – Object Modeling, LeetCode & Scenarios  
+**(Date: 30-Dec-2025)**
+
+- Studied object modeling concepts and UML diagrams.
+- Implemented:
+  - Association
+  - Aggregation
+  - Composition
+- Solved LeetCode problems (DP and matrix-based).
+- Practiced multiple scenario-based programs.
+
+🔗 **Code Link:**  
+👉 [Object Modeling](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/level1)  
+👉 [Scenario Based](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)  
+👉 [LeetCode](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
+### 🗓 Day 13 – Inheritance & Core Java Scenarios  
+**(Date: 31-Dec-2025)**
+
+- Practiced inheritance and polymorphism concepts.
+- Implemented real-world problems using:
+  - Loops
+  - switch-case
+- Strengthened understanding of code reusability.
+
+🔗 **Code Link:**  
+👉 [Inheritance](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)  
+👉 [Scenario Based](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com) 
+
+---
+
+### 🗓 Day 14 – Encapsulation, Abstraction & Interfaces  
+**(Date: 01-Jan-2026)**
+
+- Studied core OOPS concepts:
+  - Encapsulation
+  - Abstraction
+  - Interfaces
+  - Polymorphism
+- Implemented programs demonstrating data hiding and abstraction.
+
+🔗 **Code Link:**  
+👉 [Encapsulation & Abstraction](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
+
+---
+
+### 🗓 Day 15 – OOPS Scenarios, LeetCode & Linked List  
+**(Date: 02-Jan-2026)**
+
+- Designed multiple OOPS-based systems.
+- Solved LeetCode problems on arrays and linked lists.
+- Studied linked list:
+  - Types
+  - Operations
+- Implemented basic linked list programs.
+
+🔗 **Code Link:**  
+👉 [OOPS Scenarios](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)  
+👉 [LeetCode](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)  
+👉 [Linked List](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linkedlist)
+
+---
+
+### 🗓 Day 16 – Advanced OOPS, Stack/Queue  
+**(Date: 03-Jan-2026)**
+
+- Implemented advanced OOPS case studies.
+- Solved LeetCode problems based on linked lists.
+- Practiced:
+  - Stack
+  - Queue
+  - Hashing
+- Improved understanding of data structures.
+
+🔗 **Code Link:**  
+👉 [OOPS Scenarios](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)  
+👉 [Stack & Queue](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/StacksAndQueues)  
+👉 [Hashing](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/HashMapsAndHashFunctions)
+
+---
