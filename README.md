@@ -240,7 +240,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Week 2:  Data Structures & Algorithms
+### 📅 Week 3:  Data Structures & Algorithms
 
 ### 🗓 Day 15 – OOPS Scenarios, LeetCode & Linked List  
 **(Date: 02-Jan-2026)**
