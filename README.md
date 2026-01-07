@@ -143,6 +143,10 @@ BridgeLabz-Training/
 🔗 **Code Link:**
 👉 [Day 8 – Scenario based questions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
+
+### 📅 Week 2: Object-Oriented Programming
+
+
 ### 🗓 Day 9 – Classes & Objects
 **(Date: 26-Dec-2025)**
 
@@ -235,6 +239,8 @@ BridgeLabz-Training/
 👉 [Encapsulation & Abstraction](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
 
 ---
+
+### 📅 Week 2:  Data Structures & Algorithms
 
 ### 🗓 Day 15 – OOPS Scenarios, LeetCode & Linked List  
 **(Date: 02-Jan-2026)**
