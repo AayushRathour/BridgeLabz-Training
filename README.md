@@ -270,3 +270,28 @@ BridgeLabz-Training/
 👉 [Hashing](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/HashMapsAndHashFunctions)
 
 ---
+
+### 🗓 Day 17 – OOPS Applications & Sorting  
+**(Date: 05-Jan-2026)**
+
+- Designed real-world OOPS applications.
+- Implemented sorting algorithms.
+
+🔗 **Code Links:**  
+👉 [OOPS Scenarios](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)  
+👉 [Sorting](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/SortingAlgorithm)
+
+---
+
+### 🗓 Day 18 – Complex OOPS & Searching  
+**(Date: 06-Jan-2026)**
+
+- Implemented complex OOPS case studies.
+- Practiced searching algorithms and file handling.
+- Solved leetcode problem.
+
+🔗 **Code Links:**  
+👉 [OOPS Scenarios](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)  
+👉 [Searching & File Handling](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/SearchingAlgorithm)
+
+---
