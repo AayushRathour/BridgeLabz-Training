@@ -127,3 +127,79 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 7 – Built-in Functions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra)
+
+
+### 🗓 Day 8 – Scenario based questions
+**(Date: 24-Dec-2025)**
+
+- Practiced real world problems.
+- Implemented programs such as:
+  - Coffee price calculator
+  - Finding bmi and bmi category
+- Improved understanding of Input handling and Real world problems
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 8 – Scenario based questions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+### 🗓 Day 10 – Array Practice (LeetCode)  
+**(Date: 27-Dec-2025)**
+
+- Practiced array-based problems on LeetCode.
+- Improved problem-solving skills using arrays.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 10 – Array practice](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
+### 🗓 Day 11 – Scenario based questions
+**(Date: 29-Dec-2025)**
+
+- Practiced real world problems.
+- Improved understanding of Input handling and Real world problems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 11 – Scenario based questions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+### 🗓 Day 12 – Scenario-Based Problems  
+**(Date: 30-Dec-2025)**
+
+- Practiced scenario-based problems:
+  - **Temperature Logger**: Recorded temperatures for 7 days using arrays and loops; calculated average and maximum.
+  - **Train Reservation Queue**: Simulated ticket booking using switch-case, while-loop, and seat availability check.
+  - **Fitness Challenge Tracker**: Tracked daily push-ups using for-each loop; calculated total and average; skipped rest days.
+  - **Movie Ticket Booking App**: Implemented booking logic using switch and if conditions with multiple customers.
+  - **Library Reminder App**: Calculated late return fines (₹5/day) using date input and for-loop for multiple books.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+
+👉 [Day 12 – Scenario based questions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/scenario-based) 
+---
+
+### 🗓 Day 13 – Core Java Scenario-Based Problems  
+**(Date: 31-Dec-2025)**
+
+- Solved LeetCode problems.
+- Practiced scenario-based problems:
+  - **Currency Exchange Kiosk**: Currency conversion using switch and do-while loop.
+  - **Bus Route Distance Tracker**: Distance tracking with while-loop and exit control.
+  - **Festival Lucky Draw**: Gift eligibility using if, modulus, and loops.
+  - **Digital Watch Simulation**: 24-hour watch simulation using nested loops.
+  - **Online Quiz Application**: MCQ-based quiz with scoring and switch-case logic.
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 13 – Scenario based questions](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/scenario-based) 
+
+---
