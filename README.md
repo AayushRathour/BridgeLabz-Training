@@ -301,3 +301,18 @@ BridgeLabz-Training/
 👉 [Searching & File Handling](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/SearchingAlgorithm)
 
 ---
+
+### 🗓 Day 19 – Scenario Based 
+**(Date: 07-Jan-2026)**
+
+- Solved LeetCode problems.
+- Scenario-based problems:
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
+
+- Committed and pushed all changes successfully.
+- 
+👉 [OOPS Scenarios](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)  
+
+---
