@@ -165,3 +165,21 @@
 👉 [Scenarion Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
+
+### 🗓 Day 19 – Advanced OOPS Scenario Case Studies  
+**(Date: 07-Jan-2026)**
+
+- Practiced advanced real-world OOPS system designs with business rules and calculations.
+- Applied **inheritance, interfaces, encapsulation, polymorphism, constructors, and access control**.
+
+- Scenario-based problems:
+  - **LoanBuddy (Loan Approval Automation System)**: Implemented applicant profiling, eligibility verification, EMI calculation, inheritance-based loan types, and restricted loan status updates.
+  - **BookBazaar (Digital Bookstore System)**: Designed book inventory, order processing, inheritance-based book categories, polymorphic discount logic, and secure stock handling.
+  - **ParkEase (Smart Parking Management System)**: Built parking slot allocation, using polymorphism, encapsulation, and secure booking records.
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenarion Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+
+---
