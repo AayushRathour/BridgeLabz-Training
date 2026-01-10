@@ -198,3 +198,17 @@
 👉 [Scenarion Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
+
+### 📅 Day 21 – Practiced Scenario-based Problems
+**(Date: 09-Jan-2026)**
+
+- Solved Scenario based problems
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenarion Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
+
+---
