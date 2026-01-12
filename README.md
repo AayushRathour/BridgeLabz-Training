@@ -51,4 +51,16 @@
 👉 [Day 18 – StringBuilder, StringBuffer, FileReader and searching](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/SearchingAlgorithm)
 
 ---
+### 🗓 Day 22 –  Practiced Scenario-based Problems
+**(Date: 10-Jan-2026)**
 
+- Solved Scenario based problems
+  - BookShelf – Library Organizer 
+  - BrowserBuddy – Tab History Manager
+  - AmbulanceRoute – Emergency Patient Navigation
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
+
+---
