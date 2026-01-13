@@ -212,3 +212,12 @@
 👉 [Scenarion Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com).
 
 ---
+
+### 🗓 Day 23 –  Practiced Scenario-based Problems
+**(Date: 12-Jan-2026)**
+
+- Solved Scenario based problems for oops
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+👉 [OOPs Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)
