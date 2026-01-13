@@ -2,7 +2,6 @@ package com.CustomerQueueManager;
 
 import java.util.Objects;
 
-
 public class Customer {
 	String name;
 	boolean isSpecial;
