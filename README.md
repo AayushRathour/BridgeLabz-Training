@@ -222,6 +222,7 @@
   - GameBox – Mobile Game Distribution Platform
 👉 [OOPs Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)
 
+---
 
 
 ### 📅 Day 24 – Practiced Scenario-based Problems
