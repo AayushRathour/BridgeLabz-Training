@@ -94,3 +94,18 @@
 
 ---
 
+### 🗓 Day 25 –  Practiced Scenario-based Problems
+**(Date: 15-Jan-2026)**
+
+- Solved Scenario based problems
+  - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+  - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+  - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+  - EventManager – Ticket Price Optimizer (Quick Sort)
+  - ExamCell – Student Rank Generator (Merge Sort)
+
+- Committed and pushed all changes successfully.
+
+👉 [DSA Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
+
+---
