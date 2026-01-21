@@ -11,4 +11,17 @@
 👉 [Generics ](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
 
 ---
+### 🗓 Day 28 –  Collections - List, Set, Map and Queue
+**(Date: 19-Jan-2026)**
+
+- Studied the Java Collections Framework and its core interfaces.
+- Learned List, Set, Map, and Queue along with their characteristics.
+- Understood differences between ArrayList, LinkedList, HashSet, HashMap, and PriorityQueue.
+- Practiced basic operations and committed all changes successfully.
+
+- Committed and pushed all changes successfully.
+
+👉 [Collections](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
+
+---
 
