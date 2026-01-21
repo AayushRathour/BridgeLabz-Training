@@ -475,3 +475,30 @@ BridgeLabz-Training/
 👉 [OOPs Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)
 
 ---
+
+
+### 🗓 Day 29 – DSA Scenario-Based Sorting & Logical Problems  
+**(Date: 20-Jan-2026)**
+
+- Scenario-based problems:
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+    
+- Practiced **Java Generics** concepts.
+- Implemented generic classes, methods, and bounded types.
+
+- Generic-based problems:
+  - Smart Warehouse Management System
+  - Dynamic Online Marketplace
+  - Multi-Level University Course Management System
+  - Personalized Meal Plan Generator
+  - AI-Driven Resume Screening System
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [DSA Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
+👉 [Generics](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
+
+---
