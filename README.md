@@ -434,7 +434,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 27 – DSA Scenario-Based Sorting Practice  
+### 🗓 Day 27 – DSA Scenario-Based Sorting Practice and Generics 
 **(Date: 17-Jan-2026)**
 
 - Practiced scenario-based DSA problems using sorting algorithms.
@@ -449,4 +449,29 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [DSA Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
+
+- Studied the concept of Generics in Java.
+- Learned generic classes, generic methods, and bounded types.
+
+👉 [Generics](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
+
+---
+
+
+### 🗓 Day 28 –  Practiced Scenario-based Problems
+**(Date: 19-Jan-2026)**
+
+- Solved Scenario based problems for DSA.
+
+👉 [DSA Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
+
+- Studied the Java Collections Framework and its core interfaces.
+- Learned List, Set, Map, and Queue along with their characteristics.
+
+👉 [Collection Framework](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/collection)
+
+- Solved Scenario based problems for OOPS.
+
+👉 [OOPs Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)
+
 ---
