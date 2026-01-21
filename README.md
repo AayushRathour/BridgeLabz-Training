@@ -238,3 +238,17 @@
 
 
 ---
+
+
+### 📅 Day 27 – Practiced Scenario-based Problems
+**(Date: 17-Jan-2026)**
+
+- Solved Scenario based problems
+  - To compare line segments
+  - Bag-n-Ball Organizer
+
+- Committed and pushed all changes successfully.
+
+👉 [OOPs Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)
+
+---
