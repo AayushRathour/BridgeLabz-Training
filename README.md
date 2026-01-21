@@ -252,3 +252,18 @@
 👉 [OOPs Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)
 
 ---
+
+### 📅 Day 28 – Practiced Scenario-based Problems
+**(Date: 19-Jan-2026)**
+
+- Solved Scenario based problem for Address Book System
+  - Adds a new contact (with validation for duplicates)
+  - Edits and delete an existing contact by name
+  - Searches contacts by city or state
+  - Displays all contacts sorted alphabetically
+
+- Committed and pushed all changes successfully.
+
+👉 [OOPs Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com)
+
+---
