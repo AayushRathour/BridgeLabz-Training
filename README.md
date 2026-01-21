@@ -159,3 +159,19 @@
 👉[DSA Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
 
 ---
+
+### 🗓 Day 29 – DSA Scenario-Based Sorting & Logical Problems  
+**(Date: 20-Jan-2026)**
+
+- Scenario-based problems:
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉[DSA Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
+
+
+---
