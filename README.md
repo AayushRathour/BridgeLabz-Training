@@ -175,3 +175,20 @@
 
 
 ---
+
+### 🗓 Day 30 –  Practiced Scenario-based Problems
+**(Date: 21-Jan-2026)**
+
+- Solved Scenario based problems on DSA
+  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)	
+  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+  - University's Digital Record System
+  - E-Commerce Product Inventory
+  - Music App - Organize Songs by Track ID
+
+- Committed and pushed all changes successfully.
+
+👉 [DSA Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
+
+---
+
