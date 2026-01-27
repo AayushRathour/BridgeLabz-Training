@@ -1,4 +1,4 @@
-package com.junit;
+package com.JUnit;
 
 public class PasswordValidator {
     public boolean isValid(String password) {

@@ -1,4 +1,4 @@
-package com.junit;
+package com.JUnit;
 
 public class NumberUtils {	
     public boolean isEven(int number) {

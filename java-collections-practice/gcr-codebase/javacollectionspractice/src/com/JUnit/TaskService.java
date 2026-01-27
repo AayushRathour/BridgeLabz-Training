@@ -1,4 +1,4 @@
-package com.junit;
+package com.JUnit;
 
 public class TaskService {
     public String longRunningTask() throws InterruptedException {

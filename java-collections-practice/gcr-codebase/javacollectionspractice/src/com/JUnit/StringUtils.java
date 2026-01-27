@@ -1,4 +1,4 @@
-package com.junit;
+package com.JUnit;
 
 public class StringUtils {
     public String reverse(String str) {
