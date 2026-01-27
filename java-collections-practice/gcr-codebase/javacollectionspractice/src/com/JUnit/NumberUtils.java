@@ -1,4 +1,4 @@
-package com.JUnit.TestingParameterized;
+package com.junit;
 
 public class NumberUtils {	
     public boolean isEven(int number) {

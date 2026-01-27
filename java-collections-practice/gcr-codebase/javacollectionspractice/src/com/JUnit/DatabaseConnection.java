@@ -1,4 +1,4 @@
-package com.JUnit.TestingBeforeEachandAfterEachAnnotations;
+package com.junit;
 
 public class DatabaseConnection {
     private boolean connected;

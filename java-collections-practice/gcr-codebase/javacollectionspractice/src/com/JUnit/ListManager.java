@@ -1,5 +1,4 @@
-package com.JUnit.TestingOperations;
-
+package com.junit;
 
 import java.util.List;
 
