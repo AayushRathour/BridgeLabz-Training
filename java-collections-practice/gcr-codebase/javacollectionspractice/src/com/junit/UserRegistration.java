@@ -1,4 +1,4 @@
-package com.JUnit;
+package com.junit;
 
 public class UserRegistration {
     public void registerUser(String username, String email, String password) {

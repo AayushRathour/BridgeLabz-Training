@@ -1,4 +1,4 @@
-package com.JUnit;
+package com.junit;
 
 public class TemperatureConverter {
     public double celsiusToFahrenheit(double c) {

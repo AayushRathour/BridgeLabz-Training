@@ -1,6 +1,7 @@
-package com.JUnit;
+package com.junit;
 
 public class Calculator {
+
     public int add(int a, int b) {
         return a + b;
     }
@@ -13,7 +14,7 @@ public class Calculator {
         return a * b;
     }
 
-    public int divide(int a, int b) throws ArithmeticException {
+    public int divide(int a, int b) {
         if (b == 0) {
             throw new ArithmeticException("Division by zero");
         }

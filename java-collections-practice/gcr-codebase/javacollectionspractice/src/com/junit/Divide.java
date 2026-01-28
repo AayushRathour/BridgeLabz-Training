@@ -1,4 +1,4 @@
-package com.JUnit;
+package com.junit;
 
 public class Divide {
     public int divide(int a, int b) {

@@ -1,4 +1,4 @@
-package com.JUnit;
+package com.junit;
 
 public class BankAccount {
     private double balance = 0;

@@ -1,4 +1,4 @@
-package com.JUnit;
+package com.junit;
 
 import java.util.List;
 

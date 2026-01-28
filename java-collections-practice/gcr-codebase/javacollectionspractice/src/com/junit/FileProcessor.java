@@ -1,4 +1,4 @@
-package com.JUnit;
+package com.junit;
 
 import java.io.File;
 import java.io.FileWriter;
