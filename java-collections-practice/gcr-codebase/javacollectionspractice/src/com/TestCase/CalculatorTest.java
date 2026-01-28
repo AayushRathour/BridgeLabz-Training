@@ -1,4 +1,4 @@
-package TestCases;
+package com.TestCase;
 
 import static org.junit.jupiter.api.Assertions.*;
 
