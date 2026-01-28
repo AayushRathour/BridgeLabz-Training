@@ -1,5 +1,6 @@
 package com.Reflection;
 
-public class Greeting {
 
+public interface Greeting {
+    void sayHello();
 }
