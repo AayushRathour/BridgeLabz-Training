@@ -53,4 +53,21 @@
 
 ---
 
+### 🗓 Day 31 – Java Input Streams  
+**(Date: 22-Jan-2026)**
+
+- Studied **Java Input Streams**.
+- Learned about:
+  - InputStream
+  - FileInputStream
+  - BufferedInputStream
+- Practiced reading data from files and console.
+- Understood stream-based input handling and performance benefits.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Collections](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/Collections)
+
+---
+
 
