@@ -565,3 +565,20 @@ BridgeLabz-Training/
 👉 [Exception Handling](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/Collections)
 
 ---
+
+### 🗓 Day 33 – JUnit & Regular Expressions  
+**(Date: 24-Jan-2026)**
+
+- Studied **JUnit testing framework**.
+- Practiced writing unit test cases.
+- Learned JUnit annotations and test lifecycle.
+- Studied **Regular Expressions (Regex)**.
+- Practiced pattern matching and validation.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [JUnit and Regex](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com).
+
+---
+
+
