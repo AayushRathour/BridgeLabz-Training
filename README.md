@@ -71,3 +71,19 @@
 ---
 
 
+### 🗓 Day 32 – Exception Handling in Java  
+**(Date: 23-Jan-2026)**
+
+- Studied **Exception Handling** in Java.
+- Learned usage of:
+  - `try`, `catch`, `finally`
+  - `throw` and `throws`
+- Implemented **custom exceptions**.
+- Understood **checked and unchecked exceptions**.
+- Practiced handling multiple and runtime exceptions.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Collections](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/Collections)
+
+---
