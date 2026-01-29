@@ -104,3 +104,20 @@
 ---
 
 
+### 🗓 Day 34 – Java Annotations  
+**(Date: 27-Jan-2026)**
+
+- Studied **Java Annotations** and their purpose.
+- Learned built-in annotations such as:
+  - `@Override`
+  - `@Deprecated`
+  - `@SuppressWarnings`
+- Implemented **custom annotations**.
+- Understood annotation retention policies and targets.
+- Practiced annotation usage with reflection.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Annotations](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com).
+
+---
