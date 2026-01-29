@@ -503,18 +503,20 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 30 –  Practiced Scenario-based Problems
+### 🗓 Day 30 –  Collections - (List, Set, Map and Queue) & Leetcode Problem Practice
 **(Date: 21-Jan-2026)**
 
-- Solved Scenario based problems on DSA
-  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)	
-  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
-  - University's Digital Record System
-  - E-Commerce Product Inventory
-  - Music App - Organize Songs by Track ID
+- Studied the Java Collections Framework and its core interfaces.
+- Learned List, Set, Map, and Queue along with their characteristics.
+- Understood differences between ArrayList, LinkedList, HashSet, HashMap, and PriorityQueue.
+- Practiced basic operations and committed all changes successfully.
+
+- Solved LeetCode problems
 
 - Committed and pushed all changes successfully.
 
-👉 [DSA Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenariobased/src/com)
+🔗 **Code Link:**  
+👉 [Leetcode Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase).
+👉 [Collections](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/Collections).
 
 ---
