@@ -1,4 +1,4 @@
-package javaiostreamsscenariobased.com.healthcheckpro;
+package com.HealthCheckPro;
 
 public class LabController {
     @PublicAPI(description = "Get all lab tests")

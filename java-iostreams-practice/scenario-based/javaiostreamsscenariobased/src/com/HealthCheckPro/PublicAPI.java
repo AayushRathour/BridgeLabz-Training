@@ -1,4 +1,4 @@
-package javaiostreamsscenariobased.com.healthcheckpro;
+package com.HealthCheckPro;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
