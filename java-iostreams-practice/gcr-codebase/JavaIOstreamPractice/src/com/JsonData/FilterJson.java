@@ -5,7 +5,7 @@ import java.io.FileReader;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-public class ReadJson {
+public class FilterJson {
     public static void main(String[] args) {
         try (BufferedReader br = new BufferedReader(new FileReader("users.json"))) {
             StringBuilder sb = new StringBuilder();
@@ -15,19 +15,21 @@ public class ReadJson {
                 sb.append(line);
             }
 
-            JSONArray arr = new JSONArray(sb.toString());
+            JSONArray input = new JSONArray(sb.toString());
+            JSONArray result = new JSONArray();
 
-            for (int i = 0; i < arr.length(); i++) {
-                JSONObject obj = arr.getJSONObject(i);
+            for (int i = 0; i < input.length(); i++) {
+                JSONObject user = input.getJSONObject(i);
 
-                for (String key : obj.keySet()) {
-                    System.out.println(key + " : " + obj.get(key));
+                if (user.getInt("age") > 25) {
+                    result.put(user);
                 }
-                System.out.println();
             }
-        } 
-        catch (Exception e) {
-            System.out.println(e.getMessage());
+
+            System.out.println(result.toString());
+
+        } catch (Exception e) {
+            System.out.println("error");
         }
     }
 }
