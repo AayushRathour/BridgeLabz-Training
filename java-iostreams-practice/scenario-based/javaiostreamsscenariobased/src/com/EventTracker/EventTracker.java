@@ -1,4 +1,4 @@
-package javaiostreamsscenariobased.com.eventtracker;
+package com.EventTracker;
 
 import java.lang.reflect.Method;
 import java.time.LocalDateTime;

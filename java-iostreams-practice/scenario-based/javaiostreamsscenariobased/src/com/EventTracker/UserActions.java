@@ -1,4 +1,4 @@
-package javaiostreamsscenariobased.com.eventtracker;
+package com.EventTracker;
 
 public class UserActions {
     @AuditTrail(action = "User Login")

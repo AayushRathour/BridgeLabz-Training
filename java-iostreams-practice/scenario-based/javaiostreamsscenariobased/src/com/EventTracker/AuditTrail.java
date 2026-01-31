@@ -1,4 +1,4 @@
-package javaiostreamsscenariobased.com.eventtracker;
+package com.EventTracker;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
