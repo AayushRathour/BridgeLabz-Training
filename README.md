@@ -25,3 +25,17 @@
 👉 [Day 36 – JSON Data Handling (CSV to JSON Validation)](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOstreamPractice/src/com/JsonData)
 
 ---
+
+### 🗓 Day 37 – Practiced Scenario-based Problems  
+**(Date: 30-Jan-2026)**
+
+- Solved Scenario based problems
+  - HealthCheckPro – Annotation-based API metadata handling using Reflection and auto documentation generation
+  - MarkMate – CSV file handling with data processing and JSON report generation
+  - EventTracker – Annotation-driven event handling using Reflection and structured JSON logging
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based/javaiostreamsscenariobased/src/com)
+
+---
