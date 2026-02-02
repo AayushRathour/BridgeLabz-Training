@@ -641,3 +641,18 @@ BridgeLabz-Training/
 👉 [Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based/javaiostreamsscenariobased/src/com)
 
 ---
+
+
+### 🗓 Day 38 – Regex, CSV & Pattern Matching Scenarios  
+**(Date: 31-Jan-2026)**
+
+- Practiced **regular expressions** for pattern matching and validation.
+- Worked with **CSV file processing** and data extraction.
+- Implemented pattern-based logic for real-world applications.
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based/javaiostreamsscenariobased/src/com)
+
+---
