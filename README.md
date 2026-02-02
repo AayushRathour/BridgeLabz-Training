@@ -653,6 +653,6 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based/javaiostreamsscenariobased/src/com)
+👉 [Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based/JavaCollectionsScenariobased/src/com)
 
 ---
