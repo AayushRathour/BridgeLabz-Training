@@ -1,4 +1,4 @@
-package com.collectors;
+package com.Collectors;
 
 import java.util.Arrays;
 import java.util.Map;
