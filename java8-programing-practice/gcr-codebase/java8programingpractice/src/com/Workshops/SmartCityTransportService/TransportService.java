@@ -1,0 +1,11 @@
+package com.Workshops.SmartCityTransportService;
+
+public interface TransportService {
+    String getName();
+    double getFare();
+    int getPassengers();
+
+    default void printServiceDetails() {
+        System.out.println(getName() + " " + getFare());
+    }
+}
