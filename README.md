@@ -699,30 +699,99 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 42 – Practiced Scenario-based Problems (Java 8)  
+### 🗓 Day 42 – Design Patterns  
 **(Date: 05-Feb-2026)**
 
-- Solved scenario-based problems using Java 8 features.  
-- Applied Lambda expressions and Functional Interfaces in real-world cases.  
-- Used Stream API and Collectors for data processing.  
-- Practiced writing clean and optimized Java 8 code.  
+- Studied **Java Design Patterns**.
+- Learned purpose and benefits of design patterns.
+- Implemented common patterns:
+  - Singleton
+  - Factory
+  - Strategy
+  - Observer
+- Understood real-world use cases of each pattern.
+- Improved code structure and maintainability.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 42 – Scenario Based Java 8](https://github.com/AayushRathour/BridgeLabz-Training/tree/java8-programing-practice/java8-programing-practice/scenario-based/Java8scenariobased/src/com)
+👉 [Design Pattern](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/LibraryManagementSystem).
 
 ---
 
-### 🗓 Day 43 – Case Study: Library Management System (Design Patterns & SOLID)  
+### 🗓 Day 43 – Multithreading in Java  
 **(Date: 06-Feb-2026)**
 
-- Analyzed Library Management System using core Design Patterns.
-- Applied SOLID principles for better system architecture and maintainability.
-- Designed modular components following object-oriented best practices.
-- Evaluated scalability and extensibility using proper abstraction.
+- Studied **Multithreading** concepts in Java.
+- Learned ways to create threads:
+  - Extending `Thread` class
+  - Implementing `Runnable` interface
+- Understood **thread lifecycle** and states.
+- Practiced thread synchronization and concurrency basics.
+- Learned use of `sleep()`, `join()`, and thread priorities.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 43 – Library Management System Case Study](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/LibraryManagementSystem)
+👉 [Multithreading](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/Multithreading).
 
 ---
+
+### 🗓 Day 44 – MySQL Practice Exercises  
+**(Date: 07-Feb-2026)**
+
+- Practiced **MySQL fundamentals** with hands-on exercises.
+- Designed and queried relational tables.
+- Implemented SQL operations using **CRUD, joins, constraints, and transactions**.
+
+- Practice exercises:
+  - Employee Management System
+  - Banking Transaction System
+  - Book Inventory Management System
+
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [MySQL Practice Excercise](https://github.com/AayushRathour/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/practice-exercises).
+
+---
+
+### 🗓 Day 45 – MySQL Scenario-Based Practice  
+**(Date: 08-Feb-2026)**
+
+- Practiced **scenario-based database design** using MySQL.
+- Implemented relational modeling, constraints, and queries.
+
+- Scenario modules:
+  - Patient Management
+  - Doctor Management
+  - Appointment Scheduling
+  - Visit Management & Medical Records
+  - Billing & Payments
+  - System Administration
+
+- Used **CRUD operations, joins, foreign keys, and transactions**.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Scenario Based Practice My SQL](https://github.com/AayushRathour/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based).
+
+---
+
+### 🗓 Day 46 – Stream API Scenario-Based Practice  
+**(Date: 10-Feb-2026)**
+
+- Practiced **scenario-based problems using Java Stream API**.
+- Applied stream operations:
+  - filter
+  - map
+  - reduce
+  - collect
+- Used **Collectors** for grouping, sorting, and aggregation.
+- Solved real-world data processing scenarios with streams.
+- Improved code readability and functional-style implementation.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Java 8 Scenario Based](https://github.com/AayushRathour/BridgeLabz-Training/tree/java8-programing-practice/java8-programing-practice/scenario-based/Java8scenariobased/src/com).
+
+---
+
