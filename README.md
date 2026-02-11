@@ -656,3 +656,73 @@ BridgeLabz-Training/
 👉 [Scenario Based Problems](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based/JavaCollectionsScenariobased/src/com)
 
 ---
+
+### 🗓 Day 39 – Stream API  
+**(Date: 02-Feb-2026)**
+
+- Studied the concept of Stream API in Java.  
+- Learned intermediate and terminal stream operations.  
+- Practiced operations like filter, map, sorted, and collect.  
+- Implemented data processing using streams on collections.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 39 – Stream API](https://github.com/AayushRathour/BridgeLabz-Training/tree/java8-programing-practice/java8-programing-practice/gcr-codebase/java8programingpractice/src/com/StreamAPI)
+
+---
+
+### 🗓 Day 40 – Collectors  
+**(Date: 03-Feb-2026)**
+
+- Studied the Collectors utility class in Java Stream API.  
+- Learned different collector methods like toList, toSet, toMap, and groupingBy.  
+- Practiced collecting and transforming stream data into various collections.  
+- Implemented grouping and partitioning operations using collectors.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 40 – Collectors](https://github.com/AayushRathour/BridgeLabz-Training/tree/java8-programing-practice/java8-programing-practice/gcr-codebase/java8programingpractice/src/com/Collectors)
+
+---
+
+### 🗓 Day 41 – Workshop: Smart City Transport & Service Management System  
+**(Date: 04-Feb-2026)**
+
+- Participated in workshop on Smart City Transport & Service Management System.  
+- Understood system design and real-world problem modeling.  
+- Practiced implementing scenario-based problems related to transport and service management.  
+- Applied collections and stream concepts in practical use cases.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 41 – Workshop](https://github.com/AayushRathour/BridgeLabz-Training/tree/java8-programing-practice/java8-programing-practice/gcr-codebase/java8programingpractice/src/com/Workshops/SmartCityTransportService)
+
+---
+
+### 🗓 Day 42 – Practiced Scenario-based Problems (Java 8)  
+**(Date: 05-Feb-2026)**
+
+- Solved scenario-based problems using Java 8 features.  
+- Applied Lambda expressions and Functional Interfaces in real-world cases.  
+- Used Stream API and Collectors for data processing.  
+- Practiced writing clean and optimized Java 8 code.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 42 – Scenario Based Java 8](https://github.com/AayushRathour/BridgeLabz-Training/tree/java8-programing-practice/java8-programing-practice/scenario-based/Java8scenariobased/src/com)
+
+---
+
+### 🗓 Day 43 – Case Study: Library Management System (Design Patterns & SOLID)  
+**(Date: 06-Feb-2026)**
+
+- Analyzed Library Management System using core Design Patterns.
+- Applied SOLID principles for better system architecture and maintainability.
+- Designed modular components following object-oriented best practices.
+- Evaluated scalability and extensibility using proper abstraction.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 43 – Library Management System Case Study](https://github.com/AayushRathour/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/LibraryManagementSystem)
+
+---
