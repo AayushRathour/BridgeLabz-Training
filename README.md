@@ -34,7 +34,7 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Scenario Based Practice My SQL](https://github.com/AayushRathour/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based).
+👉 [Scenario Based Practice My SQL](https://github.com/AayushRathour/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based). 
 
 ---
 
