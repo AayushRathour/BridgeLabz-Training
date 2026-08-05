@@ -103,5 +103,61 @@ day-2/
 | 2 | ER Diagram, Indexing & Normalization | ✅ Completed |
 
 ---
+# 📅 Day 3 - SQL Joins, Stored Procedures & Triggers
 
-**Next →** SQL Joins, Stored Procedures & Triggers
+## 🎯 Objective
+Learn how to retrieve data from multiple tables, automate database operations, and improve SQL query reusability.
+
+## 📚 Topics Covered
+
+- SQL Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+- Stored Procedures
+- Triggers
+- Database Automation
+
+## 💻 Practical Work
+
+- ✔ Performed SQL Join operations
+- ✔ Created Stored Procedures
+- ✔ Implemented INSERT & DELETE Triggers
+- ✔ Logged database activities using Trigger Tables
+- ✔ Queried data from the Health Clinic Database
+
+## 🏥 Database Entities
+
+- Doctor
+- Patient
+- Appointment
+- Patient_Log
+- Delete_Log
+
+## 📂 Files
+
+```text
+Day-3/
+├── ERdiagramDay3.png
+├── HealthClinicAppDay3.sql
+└── README.md
+```
+
+## 🧠 Key Takeaways
+
+- Retrieve related data using SQL Joins
+- Reuse queries with Stored Procedures
+- Automate database actions using Triggers
+- Maintain logs for database events
+- Improve SQL query organization
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|--------------------------------------|--------|
+| 3 | SQL Joins, Stored Procedures & Triggers | ✅ Completed |
+
+---
+
+**Next →** JDBC & Health Clinic App Development
