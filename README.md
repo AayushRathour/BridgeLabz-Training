@@ -159,5 +159,62 @@ Day-3/
 | 3 | SQL Joins, Stored Procedures & Triggers | ✅ Completed |
 
 ---
+# 📅 Day 4 - JDBC & Health Clinic App
 
-**Next →** JDBC & Health Clinic App Development
+## 🎯 Objective
+Connect a Java application with MySQL using JDBC and implement CRUD operations using a layered architecture.
+
+## 📚 Topics Covered
+
+- JDBC Fundamentals
+- Java-MySQL Connection
+- CRUD Operations
+- DAO Pattern
+- Layered Architecture
+- Maven Project Structure
+- MySQL Integration
+
+## 💻 Practical Work
+
+- ✔ Connected Java application to MySQL using JDBC
+- ✔ Built the Health Clinic Console Application
+- ✔ Implemented CRUD operations
+- ✔ Created DAO, Service & Model layers
+- ✔ Managed Patients, Doctors & Appointments
+
+## 🏥 Project Modules
+
+- Patient Management
+- Doctor Management
+- Appointment Management
+- Database Connectivity
+
+## 📂 Project Structure
+
+```text
+Day-4/
+└── health-clinic-app/
+    ├── connection/
+    ├── dao/
+    ├── model/
+    ├── service/
+    ├── main/
+    └── App.java
+```
+
+## 🧠 Key Takeaways
+
+- Connect Java with MySQL using JDBC
+- Perform CRUD operations efficiently
+- Organize code using DAO Pattern
+- Build scalable Java applications with layered architecture
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|-----------------------------------|--------|
+| 4 | JDBC & Health Clinic App | ✅ Completed |
+
+---
+
+**Next →** Tomcat, Servlets & Spring Framework
