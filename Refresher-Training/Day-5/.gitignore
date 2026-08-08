@@ -1,0 +1,37 @@
+# Java build outputs
+**/target/
+**/bin/
+**/out/
+*.class
+*.jar
+*.war
+*.ear
+
+# Java/Eclipse/IDE metadata
+**/.classpath
+**/.project
+**/.settings/
+**/.metadata/
+**/.idea/
+**/*.iml
+**/.vscode/
+
+# Keep only the repository root ignore file tracked
+**/.gitignore
+!/.gitignore
+
+# Local Maven metadata/config (user requested)
+**/.mvn/
+**/.mvn/**
+
+# Runtime/log/temp files
+*.log
+*.tmp
+*.swp
+*.swo
+**/logs/
+**/temp/
+**/work/
+
+# Local Tomcat distribution (generated/runtime files under project)
+FirstServlet/src/apache-tomcat-*/
