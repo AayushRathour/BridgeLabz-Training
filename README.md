@@ -216,5 +216,54 @@ Day-4/
 | 4 | JDBC & Health Clinic App | ✅ Completed |
 
 ---
+# 📅 Day 5 - Tomcat, Servlets & Spring Introduction
 
-**Next →** Tomcat, Servlets & Spring Framework
+## 🎯 Objective
+Learn the basics of Java web development, Servlets, Tomcat, and Spring IoC/Dependency Injection.
+
+## 📚 Topics Covered
+
+- Apache Tomcat
+- Servlet Basics
+- Servlet Lifecycle
+- Spring Framework
+- IoC (Inversion of Control)
+- Dependency Injection
+- XML Configuration
+- Annotation-Based Configuration
+- Java-Based Configuration
+
+## 💻 Practical Work
+
+- ✔ Created and executed a basic Servlet
+- ✔ Practiced Spring IoC & Dependency Injection
+- ✔ Created Spring projects using 3 configuration approaches
+- ✔ XML-Based Configuration
+- ✔ Annotation-Based Configuration
+- ✔ Java-Based Configuration
+
+## 📂 Projects
+
+```text
+Day-5/
+├── FirstServlet/
+├── XML Configuration/
+├── AnnotationBased/
+├── JavaBased/
+└── README.md
+```
+
+## 🧠 Key Takeaways
+
+- Understand how Tomcat runs Java web applications
+- Understand the Servlet lifecycle
+- Understand IoC and Dependency Injection
+- Configure Spring using XML, Annotations, and Java
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|--------------------------------|--------|
+| 5 | Tomcat, Servlets & Spring Introduction | ✅ Completed |
+
+---
