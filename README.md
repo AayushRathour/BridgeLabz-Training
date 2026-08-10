@@ -267,3 +267,56 @@ Day-5/
 | 5 | Tomcat, Servlets & Spring Introduction | ✅ Completed |
 
 ---
+# 📅 Day 6 - Spring MVC
+
+## 🎯 Objective
+Learn Spring MVC architecture and build simple web applications using Controllers, Views, and Request Mapping.
+
+## 📚 Topics Covered
+
+- Spring MVC Architecture
+- DispatcherServlet
+- Controllers
+- Request Mapping
+- Request & Response Handling
+- Model and View
+- Maven Project Structure
+
+## 💻 Practical Work
+
+- ✔ Created a Spring MVC project
+- ✔ Built **My Greetings App**
+- ✔ Built a simple **Login Application**
+- ✔ Implemented Controllers and Request Mapping
+- ✔ Connected Requests with Views
+
+## 📂 Projects
+
+```text
+Day-6/
+├── MVCLogin/
+│   ├── src/main/
+│   ├── pom.xml
+│
+├── MyGreetingsApp/
+│   ├── src/main/
+│   ├── pom.xml
+```
+
+## 🧠 Key Takeaways
+
+- Understand the role of DispatcherServlet
+- Handle requests using Controllers
+- Map URLs using `@RequestMapping`
+- Connect Controllers with Views
+- Understand the basic Spring MVC request flow
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|----------------------|--------|
+| 6 | Spring MVC | ✅ Completed |
+
+---
+
+**Next →** Spring REST API & Request Handling
