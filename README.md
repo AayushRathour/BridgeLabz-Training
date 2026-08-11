@@ -318,5 +318,38 @@ Day-6/
 | 6 | Spring MVC | ✅ Completed |
 
 ---
+# 📅 Day 7 - Spring REST API & Request Handling
 
-**Next →** Spring REST API & Request Handling
+## 🎯 Objective
+Build RESTful APIs using Spring and understand basic request handling for backend applications.
+
+## 📚 Topics Covered
+
+- Spring REST API
+- RESTful Endpoints
+- Request & Response Handling
+- HTTP Methods
+- H2 Database Basics
+- Distributed Architecture Overview
+
+## 💻 Practical Work
+
+- ✔ Created the Contacts App backend
+- ✔ Implemented basic REST endpoints
+- ✔ Handled API requests and responses
+- ✔ Structured the backend using Spring
+- ✔ Added basic test setup
+
+## 📂 Project
+
+```text
+Day-7/
+└── contacts-app/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+
+---
