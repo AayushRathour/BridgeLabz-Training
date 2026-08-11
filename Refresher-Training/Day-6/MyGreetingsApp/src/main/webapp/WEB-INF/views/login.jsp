@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>${greeting.id == 0 ? 'Add Greeting' : 'Edit Greeting'}</title>
+    <title>Login | My Greetings App</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; background: #0b0f14; color: #dbe4ee;
                display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
@@ -15,26 +15,34 @@
         button { width: 100%; padding: 10px; border-radius: 6px; border: none;
                  background: #5ecbf5; color: #0b0f14; font-weight: bold; cursor: pointer; }
         button:hover { opacity: 0.9; }
-        a.cancel { display: block; text-align: center; margin-top: 12px; color: #8fa1b3;
-                   text-decoration: none; font-size: 0.85rem; }
-        a.cancel:hover { color: #dbe4ee; }
+        .error { background: rgba(255,126,182,0.12); border: 1px solid #ff7eb6; color: #ff7eb6;
+                 padding: 8px 12px; border-radius: 6px; font-size: 0.85rem; margin-bottom: 14px; }
+        .link { text-align: center; margin-top: 14px; font-size: 0.85rem; }
+        a { color: #5ecbf5; text-decoration: none; }
+        a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
     <div class="card">
-        <h2>${greeting.id == 0 ? 'Add Greeting' : 'Edit Greeting'}</h2>
+        <h2>My Greetings App</h2>
 
-        <form action="${pageContext.request.contextPath}/greetings/save" method="post">
-            <!-- id=0 tells the controller this is a new greeting; a real id means "update" -->
-            <input type="hidden" name="id" value="${greeting.id}">
+        <% if (request.getAttribute("error") != null) { %>
+            <div class="error">${error}</div>
+        <% } %>
 
-            <label for="name">Name</label>
-            <input type="text" id="name" name="name" value="${greeting.name}" placeholder="e.g. Aayush" required>
+        <form action="login" method="post">
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" required>
 
-            <button type="submit">Save</button>
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Log In</button>
         </form>
 
-        <a class="cancel" href="${pageContext.request.contextPath}/greetings">&larr; Back to greetings</a>
+        <div class="link">
+            Don't have an account? <a href="register">Register</a>
+        </div>
     </div>
 </body>
 </html>
