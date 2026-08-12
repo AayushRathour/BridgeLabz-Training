@@ -352,4 +352,40 @@ Day-7/
     ├── mvnw
     └── mvnw.cmd
 
+
+
 ---
+
+# 📅 Day 8 - API Testing Tools & SDLC
+
+## 🎯 Objective
+Learn API testing using REST Assured and Swagger while understanding the basics of SDLC in backend development.
+
+## 📚 Topics Covered
+
+- REST Assured
+- API Testing
+- Swagger / API Documentation
+- JSON Server
+- SDLC Basics
+- REST API Validation
+
+## 💻 Practical Work
+
+- ✔ Added test cases for Contacts App APIs
+- ✔ Tested REST endpoints using REST Assured
+- ✔ Added Swagger for API documentation
+- ✔ Continued development of the Contacts App backend
+- ✔ Practiced API request and response validation
+
+## 📂 Project
+
+```text
+Day-8/
+└── contacts-app/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
