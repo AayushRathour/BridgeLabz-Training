@@ -354,28 +354,28 @@ Day-7/
 
 
 
----
 
 # 📅 Day 8 - API Testing Tools & SDLC
 
 ## 🎯 Objective
-Learn API testing using REST Assured and Swagger while understanding the basics of SDLC in backend development.
+
+Learn API testing and understand the role of backend development in the Software Development Life Cycle (SDLC).
 
 ## 📚 Topics Covered
 
 - REST Assured
+- JSON Server
 - API Testing
 - Swagger / API Documentation
-- JSON Server
 - SDLC Basics
 - REST API Validation
 
 ## 💻 Practical Work
 
-- ✔ Added test cases for Contacts App APIs
-- ✔ Tested REST endpoints using REST Assured
+- ✔ Continued the Contacts App backend
+- ✔ Tested Contacts App REST endpoints
+- ✔ Created API test cases using REST Assured
 - ✔ Added Swagger for API documentation
-- ✔ Continued development of the Contacts App backend
 - ✔ Practiced API request and response validation
 
 ## 📂 Project
@@ -389,3 +389,72 @@ Day-8/
     ├── pom.xml
     ├── mvnw
     └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Test REST APIs using REST Assured
+- Mock and test APIs using JSON Server
+- Document APIs using Swagger
+- Understand the role of backend development in SDLC
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|---------------------------|--------|
+| 8 | API Testing Tools & SDLC | ✅ Completed |
+
+---
+
+# 📅 Day 9 - Spring Boot Fundamentals
+
+## 🎯 Objective
+
+Learn Spring Boot fundamentals and build REST APIs with H2 database integration and unit testing.
+
+## 📚 Topics Covered
+
+- Spring Boot Fundamentals
+- Auto-Configuration
+- Spring Boot Starters
+- Embedded Server
+- Spring Controller & REST API
+- H2 Database
+- Mockito Testing
+
+## 💻 Practical Work
+
+- ✔ Created the Contacts App using Spring Boot
+- ✔ Added H2 Database integration
+- ✔ Created REST API endpoints
+- ✔ Performed unit testing using Mockito
+- ✔ Continued backend development with Spring Boot
+
+## 📂 Project
+
+```text
+Day-9/
+└── contacts-app/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Understand Spring Boot auto-configuration
+- Build REST APIs using Spring Boot
+- Configure and use H2 Database
+- Write unit tests using Mockito
+- Understand the basic Spring Boot project structure
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|--------------------------|--------|
+| 9 | Spring Boot Fundamentals | ✅ Completed |
+
+---
