@@ -469,3 +469,67 @@ Day-9/
 | 9 | Spring Boot Fundamentals | ✅ Completed |
 
 ---
+
+# 📅 Day 10 - Dependency Injection & H2 Database
+
+## 🎯 Objective
+
+Understand Dependency Injection in Spring Boot and integrate H2 Database into a backend application.
+
+## 📚 Topics Covered
+
+- Dependency Injection in Spring Boot
+- H2 Database Integration
+- H2 Configuration
+- Entity Mapping
+- Repository Layer
+- Service Layer
+- REST Controller
+
+## 💻 Practical Work
+
+- ✔ Created the Employee Payroll Application
+- ✔ Integrated H2 Database
+- ✔ Implemented Dependency Injection
+- ✔ Created Entity, Repository and Service layers
+- ✔ Added DTO and Mapper layers
+- ✔ Added Exception Handling
+- ✔ Added test structure
+
+## 📂 Project
+
+```text
+Day-10/
+└── Employee-Pay-Role/
+    └── src/
+        ├── main/
+        │   ├── java/com/employeepayroll/
+        │   │   ├── Controller/
+        │   │   ├── Dto/
+        │   │   ├── Entity/
+        │   │   ├── Exception/
+        │   │   ├── Mapper/
+        │   │   ├── Repository/
+        │   │   └── Service/
+        │   └── resources/
+        │
+        └── test/
+            └── java/com/employeepayroll/
+```
+
+## 🧠 Key Takeaways
+
+- Understand Dependency Injection in Spring Boot
+- Configure and use H2 Database
+- Separate application logic into layers
+- Understand Entity, Repository and Service responsibilities
+- Structure a Spring Boot application cleanly
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|-------------------------------------|--------|
+| 10 | Dependency Injection & H2 Database | ✅ Completed |
+
+---
+
