@@ -318,18 +318,19 @@ Day-6/
 | 6 | Spring MVC | ✅ Completed |
 
 ---
+
 # 📅 Day 7 - Spring REST API & Request Handling
 
 ## 🎯 Objective
-Build RESTful APIs using Spring and understand basic request handling for backend applications.
+
+Learn to build RESTful APIs using Spring and understand basic request handling for backend applications.
 
 ## 📚 Topics Covered
 
 - Spring REST API
 - RESTful Endpoints
 - Request & Response Handling
-- HTTP Methods
-- H2 Database Basics
+- H2 In-Memory Database Basics
 - Distributed Architecture Overview
 
 ## 💻 Practical Work
@@ -337,8 +338,7 @@ Build RESTful APIs using Spring and understand basic request handling for backen
 - ✔ Created the Contacts App backend
 - ✔ Implemented basic REST endpoints
 - ✔ Handled API requests and responses
-- ✔ Structured the backend using Spring
-- ✔ Added basic test setup
+- ✔ Started backend development using Spring
 
 ## 📂 Project
 
@@ -351,10 +351,22 @@ Day-7/
     ├── pom.xml
     ├── mvnw
     └── mvnw.cmd
+```
 
+## 🧠 Key Takeaways
 
+- Build RESTful endpoints using Spring
+- Handle HTTP requests and responses
+- Understand basic REST architecture
+- Understand the purpose of H2 in-memory databases
 
+## 🚀 Progress
 
+| Day | Topic | Status |
+|------|----------------------------------|--------|
+| 7 | Spring REST API & Request Handling | ✅ Completed |
+
+---
 # 📅 Day 8 - API Testing Tools & SDLC
 
 ## 🎯 Objective
@@ -373,8 +385,8 @@ Learn API testing and understand the role of backend development in the Software
 ## 💻 Practical Work
 
 - ✔ Continued the Contacts App backend
-- ✔ Tested Contacts App REST endpoints
-- ✔ Created API test cases using REST Assured
+- ✔ Created test cases for REST APIs
+- ✔ Tested Contacts App endpoints using REST Assured
 - ✔ Added Swagger for API documentation
 - ✔ Practiced API request and response validation
 
@@ -394,8 +406,8 @@ Day-8/
 ## 🧠 Key Takeaways
 
 - Test REST APIs using REST Assured
-- Mock and test APIs using JSON Server
-- Document APIs using Swagger
+- Understand API mocking and testing with JSON Server
+- Document and explore APIs using Swagger
 - Understand the role of backend development in SDLC
 
 ## 🚀 Progress
@@ -405,12 +417,11 @@ Day-8/
 | 8 | API Testing Tools & SDLC | ✅ Completed |
 
 ---
-
 # 📅 Day 9 - Spring Boot Fundamentals
 
 ## 🎯 Objective
 
-Learn Spring Boot fundamentals and build REST APIs with H2 database integration and unit testing.
+Learn Spring Boot fundamentals and build REST APIs with database integration and unit testing.
 
 ## 📚 Topics Covered
 
@@ -424,11 +435,11 @@ Learn Spring Boot fundamentals and build REST APIs with H2 database integration 
 
 ## 💻 Practical Work
 
-- ✔ Created the Contacts App using Spring Boot
+- ✔ Continued the Contacts App using Spring Boot
 - ✔ Added H2 Database integration
 - ✔ Created REST API endpoints
-- ✔ Performed unit testing using Mockito
-- ✔ Continued backend development with Spring Boot
+- ✔ Added unit tests using Mockito
+- ✔ Tested the backend application
 
 ## 📂 Project
 
@@ -446,10 +457,10 @@ Day-9/
 ## 🧠 Key Takeaways
 
 - Understand Spring Boot auto-configuration
+- Use Spring Boot starters and embedded server
 - Build REST APIs using Spring Boot
-- Configure and use H2 Database
+- Integrate H2 Database
 - Write unit tests using Mockito
-- Understand the basic Spring Boot project structure
 
 ## 🚀 Progress
 
