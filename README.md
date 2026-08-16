@@ -532,4 +532,54 @@ Day-10/
 | 10 | Dependency Injection & H2 Database | ✅ Completed |
 
 ---
+# 📅 Day 11 - Spring Services, Spring JPA & Spring JDBC
+
+## 🎯 Objective
+
+Learn service-layer design and implement database access using Spring JPA and Spring JDBC.
+
+## 📚 Topics Covered
+
+- Spring REST API Service Layer
+- Spring JPA
+- JPA Repositories
+- Entity Mapping
+- Spring JDBC
+- Database Access with Spring
+
+## 💻 Practical Work
+
+- ✔ Created the Employee Payroll Application using Spring JPA
+- ✔ Implemented Entity and Repository layers
+- ✔ Added Service layer for business logic
+- ✔ Mapped application entities with JPA
+- ✔ Implemented database operations using Spring
+
+## 📂 Project
+
+```text
+Day-11/
+└── Employee-Pay-Role/
+    ├── src/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Understand the role of the Service layer
+- Use JPA repositories for database operations
+- Map Java objects to database tables using JPA
+- Understand Spring JDBC for database access
+- Separate business logic from data access logic
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|------------------------------------|--------|
+| 11 | Spring Services, Spring JPA & Spring JDBC | ✅ Completed |
+
+---
+
 
