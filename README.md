@@ -582,4 +582,57 @@ Day-11/
 
 ---
 
+# 📅 Day 12 - Spring Scopes, Logging, Maven & Postman
+
+## 🎯 Objective
+
+Learn Spring Bean Scopes, application logging, Maven dependency management, and API testing using Postman.
+
+## 📚 Topics Covered
+
+- Spring Bean Scopes
+- Singleton & Prototype Scope
+- Logging in Spring Boot
+- Maven Build & Dependency Management
+- Postman API Testing
+- Swagger / API Documentation
+
+## 💻 Practical Work
+
+- ✔ Continued the Employee Payroll Application
+- ✔ Implemented Spring Bean Scopes
+- ✔ Added basic Logger
+- ✔ Added Swagger for API documentation
+- ✔ Prepared APIs for testing
+- ✔ Added test structure
+
+## 📂 Project
+
+```text
+Day-12/
+└── Employee-Pay-Role/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Understand Spring Bean Scopes
+- Use logging for application monitoring
+- Manage dependencies using Maven
+- Test REST APIs using Postman
+- Document APIs using Swagger
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|----------------------------------------|--------|
+| 12 | Spring Scopes, Logging, Maven & Postman | ✅ Completed |
+
+---
+
 
