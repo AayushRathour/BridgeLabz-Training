@@ -635,4 +635,111 @@ Day-12/
 
 ---
 
+# 📅 Day 13 - Spring Security & JWT Authentication
+
+## 🎯 Objective
+
+Learn Spring Security and JWT-based authentication and implement user authentication for the Fundoo Notes App.
+
+## 📚 Topics Covered
+
+- Spring Security Fundamentals
+- Authentication
+- JWT (JSON Web Token)
+- Token-Based Authentication
+- Password Encryption
+- User Registration & Login
+- Password Recovery
+
+## 💻 Practical Work
+
+- ✔ Started the Fundoo Notes App
+- ✔ Implemented User Management Module
+- ✔ Added User Registration
+- ✔ Implemented User Login
+- ✔ Implemented Password Recovery
+- ✔ Integrated Spring Security
+- ✔ Implemented JWT-based authentication
+
+## 📂 Project
+
+```text
+Day-13/
+└── FundooNotes/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Understand Spring Security fundamentals
+- Understand Authentication and JWT
+- Generate and validate JWT tokens
+- Secure user authentication
+- Implement basic user management
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|----------------------------------|--------|
+| 13 | Spring Security & JWT Authentication | ✅ Completed |
+
+---
+# 📅 Day 14 - Authorization & JPA for Notes Management
+
+## 🎯 Objective
+
+Implement authorization and secure the Fundoo Notes App using JWT while managing Notes with JPA.
+
+## 📚 Topics Covered
+
+- Authentication vs Authorization
+- JWT-Based Authorization
+- Spring Security
+- JPA Entity Relationships
+- Users & Notes Relationship
+- Notes Management
+
+## 💻 Practical Work
+
+- ✔ Continued the Fundoo Notes App
+- ✔ Implemented Authentication & Authorization
+- ✔ Secured APIs using JWT
+- ✔ Implemented User and Notes relationship using JPA
+- ✔ Added Notes Creation
+- ✔ Added Notes Deletion
+- ✔ Protected Notes APIs using authentication
+
+## 📂 Project
+
+```text
+Day-14/
+└── FundooNotes/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Understand Authentication vs Authorization
+- Secure APIs using JWT
+- Map relationships between Users and Notes using JPA
+- Implement authenticated Notes operations
+- Apply Spring Security to real backend functionality
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|----------------------------------------|--------|
+| 14 | Authorization & JPA for Notes Management | ✅ Completed |
+
+---
 
