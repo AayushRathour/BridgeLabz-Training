@@ -743,3 +743,110 @@ Day-14/
 
 ---
 
+# 📅 Day 15 - Pin, Archive, Trash, Search & Tags
+
+## 🎯 Objective
+
+Implement note organization, searching, filtering, and tagging features in the Fundoo Notes App.
+
+## 📚 Topics Covered
+
+- REST API Design
+- State-Based Filtering
+- Search & Filter Queries
+- Pin Notes
+- Archive Notes
+- Trash Notes
+- Tags / Labels
+
+## 💻 Practical Work
+
+- ✔ Implemented Pin / Unpin functionality
+- ✔ Implemented Archive / Unarchive functionality
+- ✔ Implemented Trash / Restore functionality
+- ✔ Added Search & Filter functionality
+- ✔ Implemented Tags / Labels Management
+- ✔ Added organization-based REST endpoints
+
+## 📂 Project
+
+```text
+Day-15/
+└── FundooNotes/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Manage note states using REST APIs
+- Implement search and filtering
+- Organize notes using Pin, Archive and Trash
+- Manage Tags / Labels
+- Design meaningful REST endpoints
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|---------------------------------------|--------|
+| 15 | Pin, Archive, Trash, Search & Tags | ✅ Completed |
+
+---
+
+# 📅 Day 16 - JMS & Redis Caching
+
+## 🎯 Objective
+
+Learn asynchronous messaging with JMS and caching with Redis to improve backend processing and authorization performance.
+
+## 📚 Topics Covered
+
+- JMS (Java Message Service)
+- Asynchronous Messaging
+- Non-Blocking Background Processing
+- Redis Caching
+- Token Caching
+- Reminder & Notification
+
+## 💻 Practical Work
+
+- ✔ Implemented JMS-based asynchronous processing
+- ✔ Added Reminder & Notification functionality
+- ✔ Integrated Redis for caching
+- ✔ Implemented JWT Token Caching
+- ✔ Improved authorization performance using Redis
+
+## 📂 Project
+
+```text
+Day-16/
+└── FundooNotes/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Understand asynchronous messaging with JMS
+- Process background tasks without blocking requests
+- Use Redis for fast data caching
+- Cache authentication tokens to improve performance
+- Implement Reminder & Notification using asynchronous processing
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|---------------------------|--------|
+| 16 | JMS & Redis Caching | ✅ Completed |
+
+---
+
+**Next →** RabbitMQ & Spring Batch
