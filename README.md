@@ -849,4 +849,119 @@ Day-16/
 
 ---
 
-**Next →** RabbitMQ & Spring Batch
+# 📅 Day 17 - RabbitMQ & Spring Batch
+
+## 🎯 Objective
+
+Learn message queuing and batch processing, and extend the Fundoo Notes App with Excel export functionality.
+
+## 📚 Topics Covered
+
+- RabbitMQ
+- Message Queuing
+- Asynchronous Processing
+- Spring Batch
+- Batch Jobs
+- Excel Export
+
+## 💻 Practical Work
+
+- ✔ Integrated background processing concepts with RabbitMQ
+- ✔ Added Spring Batch configuration
+- ✔ Implemented Notes Excel export
+- ✔ Created batch processing components
+- ✔ Structured export data using a dedicated row model
+- ✔ Generated Excel output from Notes data
+
+## 📂 Project
+
+```text
+Day-17/
+└── FundooNotes/
+    ├── src/
+    │   ├── main/
+    │   │   └── java/com/aayush/fundoo/
+    │   │       ├── batch/
+    │   │       ├── cache/
+    │   │       ├── config/
+    │   │       ├── controller/
+    │   │       ├── dto/
+    │   │       ├── entity/
+    │   │       ├── notification/
+    │   │       ├── repository/
+    │   │       ├── security/
+    │   │       └── service/
+    │   └── test/
+    ├── exports/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Understand message-based asynchronous processing
+- Understand Spring Batch job structure
+- Process and export application data in batches
+- Generate Excel reports from Notes data
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|-----------------------------|--------|
+| 17 | RabbitMQ & Spring Batch | ✅ Completed |
+
+---
+# 📅 Day 18 - REST API Patterns, Global Exception Handling, AOP & Spring Cloud
+
+## 🎯 Objective
+
+Improve the Fundoo Notes App using cleaner REST API patterns, centralized exception handling, logging, and cross-cutting concerns.
+
+## 📚 Topics Covered
+
+- REST API Design Patterns
+- DTO ↔ Entity Mapping
+- Global Exception Handling
+- Logging Best Practices
+- AOP (Aspect-Oriented Programming)
+- Spring Cloud Introduction
+- Spring Bean Scopes
+
+## 💻 Practical Work
+
+- ✔ Continued hardening of the Fundoo Notes backend
+- ✔ Improved REST API structure
+- ✔ Applied centralized exception handling
+- ✔ Worked with DTO and Entity mapping
+- ✔ Improved logging and cross-cutting concerns
+- ✔ Reviewed Spring scopes and Spring Cloud concepts
+
+## 📂 Project
+
+```text
+Day-18/
+└── FundooNotes/
+    ├── src/
+    │   ├── main/
+    │   └── test/
+    ├── pom.xml
+    ├── mvnw
+    └── mvnw.cmd
+```
+
+## 🧠 Key Takeaways
+
+- Design cleaner and maintainable REST APIs
+- Handle exceptions globally
+- Separate DTOs from Entities
+- Understand AOP for cross-cutting functionality
+- Understand the role of Spring Cloud in distributed systems
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|-----------------------------------------------|--------|
+| 18 | REST API Patterns, Exception Handling, AOP & Spring Cloud | ✅ Completed |
+
+---
