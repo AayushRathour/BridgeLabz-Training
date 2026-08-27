@@ -1,0 +1,42 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: reminder-service
+
+  # Reminder-service shares the same notes database as note-service
+  # so it can read/write the reminderAt and reminderSent columns.
+  datasource:
+    url: jdbc:mysql://localhost:3306/fundoo_note_db
+    username: root
+    password: 7509
+
+  jpa:
+    hibernate:
+      ddl-auto: none   # note-service already manages the schema; reminder-service must not alter it
+    show-sql: true
+    open-in-view: false
+
+# JWT secret must match auth-service exactly so reminder-service can validate tokens
+jwt:
+  secret: ChangeThisFundooAuthServiceSecretKeyBeforeProdUse1234567890
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+# Reminder scheduler: how often to scan for due reminders (in ms)
+# Default: every 60 seconds
+reminder:
+  scheduler:
+    fixed-rate-ms: 60000

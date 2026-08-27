@@ -1,0 +1,40 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: admin-server
+
+  # Credentials for the Admin UI login page
+  security:
+    user:
+      name: admin
+      password: admin
+
+  # Spring Boot Admin: prefer Eureka-discovered services
+  boot:
+    admin:
+      ui:
+        title: "Fundoo Notes — Admin Dashboard"
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    # Use localhost so services resolve correctly in local dev
+    prefer-ip-address: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        # Expose all actuator endpoints so Admin Server can poll them
+        include: "*"
+  endpoint:
+    health:
+      show-details: always
+
+logging:
+  level:
+    de.codecentric.boot.admin: INFO

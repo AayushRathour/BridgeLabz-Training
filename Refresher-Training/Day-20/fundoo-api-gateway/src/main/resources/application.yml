@@ -1,0 +1,46 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: api-gateway
+
+  cloud:
+    gateway:
+      routes:
+
+        - id: auth-service
+          uri: lb://auth-service
+          predicates:
+            - Path=/api/auth/**
+
+        - id: user-service
+          uri: lb://auth-service
+          predicates:
+            - Path=/api/users/**
+
+        - id: note-service
+          uri: lb://note-service
+          predicates:
+            - Path=/api/notes/**
+
+        - id: reminder-service
+          uri: lb://reminder-service
+          predicates:
+            - Path=/api/reminders/**
+
+        - id: admin-server
+          uri: lb://admin-server
+          predicates:
+            - Path=/admin/**
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
