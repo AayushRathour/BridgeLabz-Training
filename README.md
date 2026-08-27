@@ -965,3 +965,103 @@ Day-18/
 | 18 | REST API Patterns, Exception Handling, AOP & Spring Cloud | ✅ Completed |
 
 ---
+# 📅 Day 19 - Monolith vs Microservices & Spring Boot Microservices
+
+## 🎯 Objective
+
+Understand microservice architecture and start decomposing the Fundoo Notes application into independent services.
+
+## 📚 Topics Covered
+
+- Monolithic vs Microservices Architecture
+- Microservices Project Structure
+- Inter-Service Communication
+- API Gateway
+- Service Registry
+- Independent Services
+
+## 💻 Practical Work
+
+- ✔ Started converting Fundoo Notes into microservices
+- ✔ Created API Gateway
+- ✔ Created Authentication Service
+- ✔ Created Note Service
+- ✔ Created Service Registry
+- ✔ Separated application responsibilities into independent services
+
+## 📂 Projects
+
+```text
+Day-19/
+├── fundoo-api-gateway/
+├── fundoo-auth-service/
+├── fundoo-note-service/
+└── fundoo-service-registry/
+```
+
+## 🧠 Key Takeaways
+
+- Understand why monoliths are decomposed into microservices
+- Separate business responsibilities into independent services
+- Use API Gateway as the entry point
+- Understand service discovery and registry concepts
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|------------------------------------------|--------|
+| 19 | Monolith vs Microservices & Spring Boot Microservices | ✅ Completed |
+
+---
+# 📅 Day 20 - Service Registry & Microservices Completion
+
+## 🎯 Objective
+
+Complete the Fundoo Notes microservices architecture and understand service discovery and centralized administration.
+
+## 📚 Topics Covered
+
+- Service Registry (Eureka)
+- Service Discovery
+- Microservices Architecture
+- API Gateway
+- Distributed Services
+- Microservices Consolidation
+
+## 💻 Practical Work
+
+- ✔ Completed the Service Registry
+- ✔ Continued API Gateway implementation
+- ✔ Integrated Authentication Service
+- ✔ Integrated Note Service
+- ✔ Added Reminder Service
+- ✔ Added Admin Server
+- ✔ Consolidated the Fundoo Notes microservices
+
+## 📂 Projects
+
+```text
+Day-20/
+├── fundoo-admin-server/
+├── fundoo-api-gateway/
+├── fundoo-auth-service/
+├── fundoo-note-service/
+├── fundoo-reminder-service/
+└── fundoo-service-registry/
+```
+
+## 🧠 Key Takeaways
+
+- Understand service discovery using a Service Registry
+- Manage multiple independent Spring Boot services
+- Use an API Gateway for centralized routing
+- Understand distributed application structure
+- Complete a microservices-based backend architecture
+
+## 🚀 Progress
+
+| Day | Topic | Status |
+|------|---------------------------------------|--------|
+| 20 | Service Registry & Microservices Completion | ✅ Completed |
+
+---
