@@ -1,0 +1,12 @@
+# Eclipse workspace metadata (auto-generated, machine-specific)
+.metadata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr

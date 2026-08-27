@@ -1,0 +1,27 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: note-service
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/fundoo_note_db
+    username: root
+    password: 7509
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    open-in-view: false
+
+# JWT secret must match auth-service exactly so note-service can validate tokens
+# issued by auth-service.
+jwt:
+  secret: ChangeThisFundooAuthServiceSecretKeyBeforeProdUse1234567890
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
